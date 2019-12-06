@@ -1,5 +1,5 @@
 # Amxd_device
 
-Amxd Files
+Own Amxd Files
 
 Free use
