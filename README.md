@@ -3,7 +3,3 @@
 Own Amxd Files
 
 List:
-
-
-
-
